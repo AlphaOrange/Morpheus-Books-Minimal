@@ -1,0 +1,12 @@
+{
+  "title": "Liber Minimus",
+  "description": "This is a minimum book template as a starting point and for fallback tests.",
+  "tags": ["minimal", "template"],
+  "cover": "",
+  "start": {
+    "destination": "destination1",
+    "location": "location1",
+    "room": "room1",
+    "datetime": "2025-01-01 00:00:00"
+  }
+}

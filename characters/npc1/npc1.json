@@ -1,0 +1,17 @@
+{
+  "name": "Generic NPC",
+  "isPlayable": false,
+  "isNSC": true,
+  "description": "This is a generic non-player character.",
+  "gender": "male",
+  "age": 30,
+  "image": "",
+  "profession": "Generic",
+  "load_states": [],
+  "load_agendas": [],
+  "start": {
+    "destination": "destination1",
+    "location": "location1",
+    "room": "room1"
+  }
+}

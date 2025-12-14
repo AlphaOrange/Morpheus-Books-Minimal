@@ -1,0 +1,12 @@
+{
+  "name": "Generic Player",
+  "isPlayable": true,
+  "isNSC": false,
+  "description": "This is a generic player character.",
+  "gender": "female",
+  "age": 30,
+  "image": "",
+  "profession": "Generic",
+  "load_states": [],
+  "load_agendas": []
+}
