@@ -2,6 +2,7 @@
   "name": "Generic Location",
   "description": "A generic location that can be everything you want.",
   "position": [0,0],
+  "detour": 0,
   "entry": "",
   "image": ""
 }
