@@ -7,6 +7,12 @@
   "age": 30,
   "image": "",
   "profession": "Generic",
+  "body": "average body",
+  "mind": "normal",
+  "clothing": "inconspicuous",
+  "appearance": "normal",
+  "background": "generic background",
+  "wants": "you don't need anything special in life",
   "load_states": [],
   "load_agendas": [],
   "start": {
