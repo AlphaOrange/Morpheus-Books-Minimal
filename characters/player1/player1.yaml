@@ -1,0 +1,17 @@
+---
+name: Generic Player
+isPlayable: true
+isNPC: false
+description: This is a generic player character.
+gender: female
+age: 30
+image: ''
+profession: Generic
+body: average body
+mind: normal
+clothing: inconspicuous
+appearance: normal
+background: generic background
+wants: you don't need anything special in life
+load_states: []
+load_agendas: []
