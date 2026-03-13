@@ -1,4 +1,7 @@
 ---
+version:
+  book: 0.4.0
+  morpheus: 0.4.0
 title: Liber Minimus
 description: >-
   This is a minimum book template as a starting point and for fallback tests.
