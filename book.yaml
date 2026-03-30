@@ -1,7 +1,7 @@
 ---
 version:
-  book: 0.5.0
-  morpheus: 0.5.0
+  book: 0.6.0
+  morpheus: 0.6.0
 author: Stefan Tewes
 title: Liber Minimus
 description: >-
@@ -9,11 +9,11 @@ description: >-
 tags:
   - minimal
   - template
-cover: ""
+cover: ''
 start:
   destination: destination1
   location: location1
   room: room1
-  datetime: "2025-01-01 00:00:00"
+  datetime: '2025-01-01 00:00:00'
   introduction: >-
     It's a generic day. Nothing important happened. Maybe things will change... or not.
