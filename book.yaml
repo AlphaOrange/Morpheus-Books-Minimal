@@ -1,7 +1,10 @@
 ---
 version:
-  book: 0.6.0
-  morpheus: 0.6.0
+  book: 0.7.0
+  morpheus: 0.7.0
+features:
+  - move
+  - talk
 author: Stefan Tewes
 title: Liber Minimus
 description: >-
